@@ -4,14 +4,14 @@ public class PositoinNumber_02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int z;
+		int P;
 		String position;
 
-		Scanner v = new Scanner(System.in);
+		Scanner p = new Scanner(System.in);
 		System.out.print("해당코드를 입력하시오: ");
-		z = v.nextInt();
+		P = p.nextInt();
 
-		switch (z) {
+		switch (P) {
 
 		case 309275:
 			position = "CEO";

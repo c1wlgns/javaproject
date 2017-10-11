@@ -6,9 +6,9 @@ public class PositionNumber_01 {
 		// TODO Auto-generated method stub
 				String position;
 				
-				Scanner v = new Scanner(System.in);
+				Scanner P = new Scanner(System.in);
 				System.out.print("직급을 입력하세요: ");
-				position = v.next();
+				position = P.next();
 				
 				int positionNumber = 0;
 
